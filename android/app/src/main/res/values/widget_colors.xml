@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="widget_surface">#FFFFFFFF</color>
+    <color name="widget_card">#FFF2F3F5</color>
+    <color name="widget_card_current">#FFE3EFF8</color>
+    <color name="widget_ink">#FF162532</color>
+    <color name="widget_muted">#FF4F5E70</color>
+    <color name="widget_primary">#FF006DB0</color>
+    <string name="widget_description">Текущая пара и расписание дня: время, вид занятия, аудитория и преподаватель</string>
+</resources>
